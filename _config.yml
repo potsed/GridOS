@@ -1,6 +1,6 @@
 title: GridOS
 description: A framework for developing Bespoke Business Operating Systems
-theme: just-the-docs-template
+remote_theme: just-the-docs/just-the-docs
 
 url: https://potsed.github.io/GridOS
 
