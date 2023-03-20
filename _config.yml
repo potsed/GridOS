@@ -7,7 +7,7 @@ url: https://potsed.github.io/GridOS
 # baseurl: "/GridOS" # the subpath of your site, e.g. /blog
 repository: potsed/GridOS # for github-metadata
 
-permalink: pretty
+# permalink: pretty
 
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
@@ -82,4 +82,6 @@ mermaid:
 callouts:
   warning:
     color: red
+  tip:
+    color: purple
 
