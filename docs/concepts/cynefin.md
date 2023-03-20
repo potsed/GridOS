@@ -5,7 +5,7 @@ project: GridOS
 nav_order: 5
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 {{ page.project }} {{ page.title }} applies the sense making framework [Cynefin developed by Dave Snowden and theCynefin.co](https://thecynefin.co/about-us/about-cynefin-framework/)
 

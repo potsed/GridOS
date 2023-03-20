@@ -5,7 +5,7 @@ nav_order: 0
 project: GridOS
 ---
 
-# {{ page.project }} to {{ page.title }}
+## {{ page.project }} to {{ page.title }}
 
 {: .warning }
 GridOS is only in it's conception, there is still much work to do. Contributions are welcome.
