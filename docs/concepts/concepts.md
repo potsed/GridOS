@@ -1,5 +1,5 @@
 ---
-title: Concepts
+title: Important Concepts
 layout: default
 project: GridOS
 has_children: true

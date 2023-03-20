@@ -2,7 +2,7 @@
 title: Cynefin
 layout: default
 project: GridOS
-parent: Concepts
+parent: Important Concepts
 nav_order: 10
 ---
 
