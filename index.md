@@ -4,6 +4,9 @@ layout: home
 project: Grid OS
 ---
 
+{: .warning }
+GridOS is only in it's conception phase, there is still much work to do. Contributions are welcome.
+
 {{ page.project }} takes a different approach to agility, unlike other so called frameworks which prescribe specific and dare we say rigid ways of working - we recognize that every organisation is unique and has individualized requirements.
 
 Creating a bespoke agile environment should not be any more challenging than employing an unsafe, one size fits all framework. We believe that agility should be characteristic of the entire business not a set of methods attached to the business or worse, in small pockets of the business.
