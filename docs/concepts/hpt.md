@@ -3,6 +3,7 @@ title: High Performance Teams
 layout: default
 project: GridOS
 parent: Important Concepts
+permalink: /docs/concepts/high_performance
 ---
 
 ## {{ page.title }}

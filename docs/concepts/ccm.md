@@ -3,6 +3,7 @@ title: Conceptual Change Model
 layout: default
 project: GridOS
 parent: Important Concepts
+permalink: /docs/concepts/change_model
 ---
 
 ## {{ page.title }}
