@@ -81,6 +81,7 @@ mermaid:
 
 callouts:
   warning:
+    title: Take care
     color: red
 
 # Footer content
