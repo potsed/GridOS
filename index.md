@@ -5,8 +5,9 @@ nav_order: 0
 project: GridOS
 ---
 
-{: .warning }
-GridOS is only in it's conception phase, there is still much work to do. Contributions are welcome.
+# {{ page.project }} to {{ page.title }}
+
+{: .warning } GridOS is only in it's conception phase, there is still much work to do. Contributions are welcome.
 
 {{ page.project }} takes a different approach to agility, unlike other so called frameworks which prescribe specific and dare we say rigid ways of working - we recognize that every organisation is unique and has individualized requirements.
 

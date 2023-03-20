@@ -5,7 +5,8 @@ project: GridOS
 nav_order: 1
 ---
 
-Getting started with {{ page.project }}
+
+# {{ page.title }} with {{ page.project }}
 
 Creating a business operating system that is bespoke and works at scale is not an easy undertaking. It involves all leadership levels, and all leadership levels must be willing to make significant change.
 
