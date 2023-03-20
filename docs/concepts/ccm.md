@@ -2,7 +2,8 @@
 title: Conceptual Change Model
 layout: default
 project: GridOS
-nav_order: 5
+parent: Concepts
+nav_order: 1
 ---
 
 ## {{ page.title }}
