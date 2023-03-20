@@ -5,12 +5,12 @@ nav_order: 0
 project: GridOS
 ---
 
-## {{ page.project }} to {{ page.title }}
+## {{ page.project }} {{ page.title }}
 
 {: .warning }
 GridOS is only in it's conception, there is still much work to do. Contributions are welcome.
 
-{{ page.project }} takes a different approach to agility, unlike other so called frameworks which prescribe specific and mostly rigid ways of working - we recognize that every organisation is unique and has individualized requirements.
+{{ page.project }} takes a different approach to agility, unlike other so called frameworks which prescribe ways of working - we recognize that every organisation is unique and has individualized requirements. So this framework is about changing the mindset to unlock the thought and innovation potential of an organisation.
 
 Creating a bespoke agile environment should not be any more challenging than employing an unsafe, one size fits all framework. We believe that agility should be characteristic of the entire business not a set of methods attached to the business or worse, in small pockets of the business.
 
