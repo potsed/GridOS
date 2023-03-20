@@ -1,7 +1,7 @@
 ---
 title: Getting Started
-layout: page
-project: Grid OS
+layout: default
+project: GridOS
 ---
 
 Getting started with {{ page.project }}

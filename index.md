@@ -2,7 +2,7 @@
 title: Introduction
 layout: home
 nav_order: 0
-project: Grid OS
+project: GridOS
 ---
 
 {: .warning }
