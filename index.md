@@ -7,10 +7,12 @@ project: GridOS
 
 ## {{ page.project }} {{ page.title }}
 
+{{ page.project }} takes a different approach to agility,  - we recognize that every organisation is unique and has individualized requirements. So this framework is about changing the mindset to unlock the thought and innovation potential of an organisation.
+
+{{ page.project }} takes a different approach to organisational agility, we recognize that every business is unique and has individualized requirements. So this framework is focussed on changing mindsets and unlocking the thought and innovation potential of an organisation. We do not prescribe any specific ways of working like unsafe and useless frameworks which are prescriptive, we instead believe that [agility is a characteristic](/docs/concepts/agile_as_character) of an organisation rather than an implemented process.
+
 {: .warning }
 GridOS is only in it's conception, there is still much work to do. Contributions are welcome.
-
-{{ page.project }} takes a different approach to agility, unlike other so called frameworks which prescribe ways of working - we recognize that every organisation is unique and has individualized requirements. So this framework is about changing the mindset to unlock the thought and innovation potential of an organisation.
 
 Creating a bespoke agile environment should not be any more challenging than employing an unsafe, one size fits all framework. We believe that agility should be characteristic of the entire business not a set of methods attached to the business or worse, in small pockets of the business.
 
