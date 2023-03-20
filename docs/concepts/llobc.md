@@ -1,5 +1,5 @@
 ---
-title: Conceptual Levels for Change
+title: Conceptual Change Model
 layout: default
 project: GridOS
 nav_order: 5
