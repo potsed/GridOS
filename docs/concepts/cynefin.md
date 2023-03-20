@@ -3,7 +3,6 @@ title: Cynefin
 layout: default
 project: GridOS
 parent: Important Concepts
-nav_order: 10
 ---
 
 ## {{ page.title }}

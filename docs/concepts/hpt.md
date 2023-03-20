@@ -3,7 +3,6 @@ title: High Performance Teams
 layout: default
 project: GridOS
 parent: Important Concepts
-nav_order: 10
 ---
 
 ## {{ page.title }}
