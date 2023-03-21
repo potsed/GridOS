@@ -2,7 +2,7 @@
 title: Trust
 layout: default
 project: GridOS
-parent: Concepts
+parent: Important Concepts
 permalink: /docs/concepts/trust
 ---
 
