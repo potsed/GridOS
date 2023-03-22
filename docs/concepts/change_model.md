@@ -22,4 +22,4 @@ It is apparent to us that something else is needed, so we went looking. What we 
 
 Each layer of this model would have a higher ROI. For example, simply changing a process without updating skills will cause problems, however if one updates the skills first then it is more likely to have an effect on the process.
 
-![](../../assets/images/llobc/Levels of Change-V0.1.svg)
+![](../../assets/images/change_model/Levels of Change-V0.1.svg)
