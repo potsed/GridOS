@@ -3,6 +3,7 @@ title: Getting Started
 layout: default
 project: GridOS
 nav_order: 1
+permalink: /docs/getting_started
 ---
 
 ## {{ page.title }} with {{ page.project }}
