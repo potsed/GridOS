@@ -1,5 +1,5 @@
 ---
-title: Change Effectiveness Model
+title: {{ site.constants.CHANGE_MODEL }}
 layout: default
 project: GridOS
 parent: Important Concepts
