@@ -3,7 +3,7 @@ title: Trust
 layout: default
 project: GridOS
 parent: Important Concepts
-permalink: /docs/concepts/trust
+permalink: /concepts/trust
 ---
 
 ## {{ page.title }}

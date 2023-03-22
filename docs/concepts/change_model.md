@@ -3,7 +3,7 @@ title: Change Effectiveness Model
 layout: default
 project: GridOS
 parent: Important Concepts
-permalink: /docs/concepts/change_model
+permalink: /concepts/change_model
 ---
 
 ## {{ page.title }}

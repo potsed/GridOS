@@ -3,7 +3,7 @@ title: Cynefin
 layout: default
 project: GridOS
 parent: Important Concepts
-permalink: /docs/concepts/cynefin
+permalink: /concepts/cynefin
 ---
 
 ## {{ page.title }}
