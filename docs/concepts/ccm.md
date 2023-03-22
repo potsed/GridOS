@@ -1,5 +1,5 @@
 ---
-title: Conceptual Change Model
+title: Change Effectiveness Model
 layout: default
 project: GridOS
 parent: Important Concepts
