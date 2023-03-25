@@ -4,6 +4,7 @@ layout: default
 project: GridOS
 parent: 
 permalink: /cohort 
+nav_order: 3
 ---
 
 ## {{ page.title }}
