@@ -2,8 +2,8 @@
 title: Cohorts
 layout: default
 project: GridOS
-parent: 
-permalink: /cohort 
+parent: Roles
+permalink: /roles/cohorts 
 nav_order: 3
 ---
 
