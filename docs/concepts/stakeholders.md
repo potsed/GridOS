@@ -2,7 +2,7 @@
 title: Key Stakeholders
 layout: default
 project: GridOS
-parent: concepts
+parent: Important Concepts
 permalink: /concepts/stakeholders
 ---
 

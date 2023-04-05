@@ -2,7 +2,7 @@
 title: Predictability
 layout: default
 project: GridOS
-parent: concepts
+parent: Important Concepts
 permalink: /concepts/predictability
 ---
 
