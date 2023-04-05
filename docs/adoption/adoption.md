@@ -1,9 +1,9 @@
 ---
-title: Important Concepts
+title: Adopting GridOS
 layout: default
 project: GridOS
 has_children: true
-permalink: /concepts
+permalink: /adoption
 nav_order: 1000
 ---
 

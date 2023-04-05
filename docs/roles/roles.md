@@ -3,8 +3,8 @@ title: Roles
 layout: default
 project: GridOS
 has_children: true
-permalink: /role
-nav_order: 4
+permalink: /roles
+nav_order: 20
 ---
 
 ## {{ page.title }}

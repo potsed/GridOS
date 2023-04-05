@@ -2,7 +2,7 @@
 title: Getting Started
 layout: default
 project: GridOS
-nav_order: 1
+nav_order: 10
 permalink: /getting_started
 ---
 

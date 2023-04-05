@@ -2,8 +2,8 @@
 title: Key Stakeholders
 layout: default
 project: GridOS
-parent: Important Concepts
-permalink: /concepts/stakeholders
+parent: Roles
+permalink: /roles/stakeholders
 ---
 
 ## {{page.title}}

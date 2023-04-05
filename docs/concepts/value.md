@@ -2,7 +2,7 @@
 title: Value Inventory
 layout: default
 project: GridOS
-parent: Roles
+parent: Important Concepts
 permalink: /concepts/value
 ---
 
