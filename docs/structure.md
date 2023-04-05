@@ -26,3 +26,18 @@ flowchart TD
     PC2 --> PF(Financial Artisan)
     end
 ```
+
+```mermaid
+mindmap
+  root[Organisation Team]
+    (Product)
+      Team A
+        Sprint A.1 SG1
+        Sprint A.2 SG4
+      Team B
+        Sprint B.1 SG2
+        Sprint B.2 SG5
+      Team C
+        Sprint C.1 SG3
+        Sprint C.2 SG6
+```
