@@ -41,7 +41,7 @@ aux_links:
   View on Github: https://github.com/potsed/GridOS
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/GridOS.svg"
+# logo: "/assets/images/GridOS.svg"
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/favicon.ico"
