@@ -8,11 +8,11 @@ project: GridOS
 ## {{ page.project }} {{ page.title }}
 
 {: .warning }
-GridOS is only in it's conception, there is still much work to do. Contributions are welcome.
+GridOS is in it's infancy and not ready for use, there is still much work to do. Contributions are welcome.
 
 {{ page.project }} takes a different approach to organisational agility, we recognize that every business is unique and has individualized requirements. So this framework focusses on changing mindsets and unlocking the cognitive potential of the organisation while also acknowledging the practical changes required across the organisation to support that mindset.
 
-This is an opinionated framework which requires dedication and persistance from the executives to adapt, as it requires organisational restructuring - which is likely to be quite different to the to existing models which many are used to. 
+This is an opinionated unconventional framework which requires dedication and persistance from the executives to adapt, as it requires organisational restructuring - which is likely to be quite different to the to existing models which many are used to.
 
 Unlike the unsafe and useless, but very popular, prescriptive frameworks available - we provide you with change plans, structural plans, everything you need to create [agility as an organisational characteristic](/GridOS/concepts/agile_as_character) rather than just a set of mechanical processes.
 
