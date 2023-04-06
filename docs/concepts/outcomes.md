@@ -1,7 +1,7 @@
 ---
 title: Desired Outcomes
 layout: default
-project: GridOS
+project: Grid/OOS
 parent: Important Concepts
 permalink: /concepts/outcomes
 ---

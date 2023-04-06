@@ -1,7 +1,7 @@
 ---
 title: Cohorts
 layout: default
-project: GridOS
+project: Grid/OOS
 parent: Roles
 permalink: /roles/cohorts 
 nav_order: 3

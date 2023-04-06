@@ -1,7 +1,7 @@
 ---
 title: Roles
 layout: default
-project: GridOS
+project: Grid/OOS
 has_children: true
 permalink: /roles
 nav_order: 30

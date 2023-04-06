@@ -1,7 +1,7 @@
 ---
 title: Agility as Character
 layout: default
-project: GridOS
+project: Grid/OOS
 parent: Important Concepts
 permalink: /concepts/agile_as_character
 ---

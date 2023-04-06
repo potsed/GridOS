@@ -1,7 +1,7 @@
 ---
 title: Key Stakeholders
 layout: default
-project: GridOS
+project: Grid/OOS
 parent: Roles
 permalink: /roles/stakeholders
 ---

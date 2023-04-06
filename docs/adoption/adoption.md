@@ -1,7 +1,7 @@
 ---
 title: Adopting GridOS
 layout: default
-project: GridOS
+project: Grid/OOS
 has_children: true
 permalink: /adoption
 nav_order: 20

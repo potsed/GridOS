@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 layout: default
-project: GridOS
+project: Grid/OOS
 nav_order: 10
 permalink: /getting_started
 ---

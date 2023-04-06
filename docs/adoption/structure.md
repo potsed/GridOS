@@ -1,7 +1,7 @@
 ---
 title: Organisational Structure
 layout: default
-project: GridOS
+project: Grid/OOS
 parent: Adopting GridOS
 permalink: /adoption/structure 
 nav_order: 3

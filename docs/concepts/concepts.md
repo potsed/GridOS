@@ -1,7 +1,7 @@
 ---
 title: Important Concepts
 layout: default
-project: GridOS
+project: Grid/OOS
 has_children: true
 permalink: /concepts
 nav_order: 1000

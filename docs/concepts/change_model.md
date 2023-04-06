@@ -1,7 +1,7 @@
 ---
 title: Change Effectiveness Model
 layout: default
-project: GridOS
+project: Grid/OOS
 parent: Important Concepts
 permalink: /concepts/change_model
 ---

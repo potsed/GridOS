@@ -2,12 +2,12 @@
 title: Introduction
 layout: home
 nav_order: 0
-project: GridOOM
+project: Grid/OOS
 ---
 
 ## {{ page.project }} {{ page.title }}
 
-> {{ page.project }} is an Organisational Operating Model which has evolved from agile frameworks and is focussed on Organisational Character and Mindset as well as Practice.
+> {{ page.project }} is an Organisational Operating System which has evolved from agile frameworks and is focussed on Organisational Character and Mindset as well as Practice.
 
 {: .warning }
 GridOS is in it's infancy and not ready for use, there is still much work to do. Contributions are welcome.

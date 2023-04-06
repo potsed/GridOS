@@ -1,7 +1,7 @@
 ---
 title: Cynefin
 layout: default
-project: GridOS
+project: Grid/OOS
 parent: Important Concepts
 permalink: /concepts/cynefin
 ---
