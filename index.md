@@ -7,10 +7,10 @@ project: GridOS
 
 ## {{ page.project }} {{ page.title }}
 
+> {{ page.project }} is an Organisational Agility Framework which has roots in agile frameworks focussed on Mindset and Practice.
+
 {: .warning }
 GridOS is in it's infancy and not ready for use, there is still much work to do. Contributions are welcome.
-
-> {{ page.project }} is an Organisational Agility Framework which has roots in agile frameworks, but which focusses in on Mindset first as the leading edge of adoption.
 
 {{ page.project }} takes a different approach to organisational agility, we recognize that every business is unique and has individualized requirements. So this framework focusses on changing mindsets and unlocking the cognitive potential of the organisation alongside which are the practical changes required to support such a mindset.
 
